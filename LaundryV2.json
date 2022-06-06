@@ -1,0 +1,65 @@
+{
+  "code": 200,
+  "success": [
+    {
+      "id": 234,
+      "name": "Laundry of Abasha",
+      "photo": "laundry1",
+      "favorite": false,
+      "items": [
+        {
+          "name": "item1",
+          "price": 123.1
+        },
+        {
+          "name": "item2",
+          "price": 124.2
+        },
+        {
+          "name": "item3",
+          "price": 125.3
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Laundry of Discovery Gardon",
+      "photo": "laundry2",
+      "favorite": false,
+      "items": [
+        {
+          "name": "item1",
+          "price": 123.1
+        },
+        {
+          "name": "item2",
+          "price": 124.2
+        },
+        {
+          "name": "item3",
+          "price": 125.3
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "name": "Laundry of Dubai Mall",
+      "photo": "laundry1",
+      "favorite": false,
+      "items": [
+        {
+          "name": "item1",
+          "price": 123.4
+        },
+        {
+          "name": "item2",
+          "price": 124.5
+        },
+        {
+          "name": "item3",
+          "price": 125.6
+        }
+      ]
+    }
+  ]
+}
