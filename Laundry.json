@@ -10,15 +10,15 @@
       "items": [
         {
           "name": "item1",
-          "price": 123.0
+          "price": 123.1
         },
         {
           "name": "item2",
-          "price": 124.0
+          "price": 124.2
         },
         {
           "name": "item3",
-          "price": 125.0
+          "price": 125.3
         }
       ]
     },
@@ -30,15 +30,15 @@
       "items": [
         {
           "name": "item1",
-          "price": 123.0
+          "price": 123.1
         },
         {
           "name": "item2",
-          "price": 124.0
+          "price": 124.2
         },
         {
           "name": "item3",
-          "price": 125.0
+          "price": 125.3
         }
       ]
     },
@@ -50,15 +50,15 @@
       "items": [
         {
           "name": "item1",
-          "price": 123.0
+          "price": 123.4
         },
         {
           "name": "item2",
-          "price": 124.0
+          "price": 124.5
         },
         {
           "name": "item3",
-          "price": 125.0
+          "price": 125.6
         }
       ]
     }
